@@ -4,8 +4,8 @@
 - 🔭 I’m currently advancing my HTML5 [Also PhotoShop][website]!
 - 🌱 I love reading & sometimes helps me with sleep
 - 👯 I’m having trial run to creators out there {lend help}
-- 🥅 2020: Less Games Read More 60B00ks atleast [Best Help is SelfHELP]
-- ⚡ Fun fact: I love to reading and tweakingsTUFF / Instrumentals
+- 🥅 2020: Less Games Read More 60 Books atleast [Best Help is SelfHELP]
+- ⚡ Fun fact: I love to reading and tweakingsTUFF / Instrumentals Music is my FaV
 
 ### Connect:
 
@@ -29,10 +29,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -58,7 +56,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Abish's Github Stats" src="https://github-readme-stats.abish4i.vercel.app/api?username=abish4i&show_icons=true&hide_border=true" />
 
 [website]: https://inknowhere.wordpress.com
 [twitter]: https://twitter.com/abish4i  
