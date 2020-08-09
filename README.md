@@ -57,9 +57,10 @@
 - [KO READER](https://github.com/koreader/koreader)
 <!-- BLOG-POST-LIST:END -->
 
----
+[![Abish's github stats](https://github-readme-stats.vercel.app/api?username=abish4i)](https://github.com/abish4i/github-readme-stats)
 
-<img align="centre" alt="Abish's Github Stats" src="https://github-readme-stats.abish4i.vercel.app/api?username=abish4i&show_icons=true&hide_border=true" />
+---
+<img align="left" alt="Abish4i's Github Stats" src="https://github-readme-stats.abish4i.vercel.app/api?username=abish4i&show_icons=true&hide_border=true" />
 
 [website]: https://inknowhere.wordpress.com
 [twitter]: https://twitter.com/abish4i  
