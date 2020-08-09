@@ -60,12 +60,12 @@
 [![Abish's github stats](https://github-readme-stats.vercel.app/api?username=abish4i)](https://github.com/abish4i/github-readme-stats)
 
 ---
-<img align="left" alt="Abish4i's Github Stats" src="https://github-readme-stats.abish4i.vercel.app/api?username=abish4i&show_icons=true&hide_border=true" />
+
 
 [website]: https://inknowhere.wordpress.com
 [twitter]: https://twitter.com/abish4i  
 [youtube]: https://youtube.com/abish4i
 [instagram]: https://instagram.com/abish4i
 [linkedin]: https://linkedin.com/in/abish4i
-[Fav]: https://www.youtube.com/playlist?list=LLNkaPdPHGaloC6nkYBLxeHw
-[SUBS]: https://m.youtube.com/channel/UCNkaPdPHGaloC6nkYBLxeHw/playlists
+[playlist]: https://www.youtube.com/playlist?list=LLNkaPdPHGaloC6nkYBLxeHw
+[youtube]: https://m.youtube.com/channel/UCNkaPdPHGaloC6nkYBLxeHw/playlists
