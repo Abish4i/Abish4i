@@ -1,9 +1,9 @@
 ### Namaste🙏 Abhishek here -[DevCode] [abish4i][website]
 
-## I'm a Student, Developer, and a Writer!
-- 👨🏻‍💻 I’m currently advancing my HTML5 🔭 [Also PhotoShop][website]!
+## I'm a who I am!
+- *** I’m currently advancing my HTML5 🔭 [Also PhotoShop][website]!
 - 📖 I love reading 📚 
-- ⚠️ I’m having novice trial runs 🙆‍♂️♂️.py {help}
+- ⚠️ I’m Pythoneer 🙆‍♂️♂️.py [Please Help]
 - 🎮 2020: Less Games ✔️ Read More 60 Books atleast [Best Help is SelfHELP]
 - 🏇 I love to tweaking sTUFF / ♥️ 🎹
 
@@ -58,14 +58,12 @@
 - [Amazon: JailbreAK kINDLE](https://inknowhere.wordpress.com/2020/05/31/kindlehacks/)
 - [uPLOaded](https://inknowhere.wordpress.com/uploaded)
 - [Wordpress](https://inknowhere.wordpress.com/)
-- [Downgrade](https://inknowhere.wordpress.com/2020/07/26/downgrade-kindle/)
-- [KO READER](https://github.com/koreader/koreader)
+- [IBM](https://github.com/abish4i)
+- [Badges](https://www.credly.com/users/abish/badges)
 <!-- BLOG-POST-LIST:END -->
 
 [![Abish's github stats](https://github-readme-stats.vercel.app/api?username=abish4i)](https://github.com/abish4i/github-readme-stats)
-
 ---
-
 
 [website]: https://inknowhere.wordpress.com
 [twitter]: https://twitter.com/abish4i  
