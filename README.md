@@ -1,11 +1,11 @@
 ### Namaste🙏 Abhishek here -[DevCode] [abish4i][website]
 
 ## I'm a who I am!
-- *** I’m currently advancing my HTML5 🔭 [Also PhotoShop][website]!
+- **I’m currently advancing my HTML5 🔭 [Also PhotoShop][website]!**
 - 📖 I love reading 📚 
 - ⚠️ I’m Pythoneer 🙆‍♂️♂️.py [Please Help]
 - 🎮 2020: Less Games ✔️ Read More 60 Books atleast [Best Help is SelfHELP]
-- 🏇 I love to tweaking sTUFF / ♥️ 🎹
+- 🏇 I love to tweaking sTUFF / ♥️ Instrumental 🎹
 
 ### Connect:
 
