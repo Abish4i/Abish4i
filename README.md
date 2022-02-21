@@ -1,14 +1,15 @@
-### Namaste 🙏{ I know this is high-five } 
-Abhishek here -[DevCode] [abish4i] reverse last two and then i 4 a b i s h [INKNOWHERE]
+### Namaste 🙏 I know this is high-five
 
-## I know you know too
-- ** HTML5 🔭 [Also PhotoShop] [deviantart]!**
-- 📖 Reading almost anything
-- ⚠️ Pythoneer.py [build few unsuccessful scripts]
-- 🗓️ 2k22: Still figuring that out
-- 🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
+## ¹I know,²I'm ³in ⁴love
+- ** <img align="justify" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ 🔭 & <img align="justify" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+ !**
+- 🏇 ¹tweaking and breaking stuff, instrumental music and EDMs 🎹
+- 📖 ²Reading almost anything
+- ⚠️ ³Pythoneer.py [build few unsuccessful scripts]
+- 🗓️ ⁴2k22: Still figuring that out
 
-### Connect: If lost in space
+### Connect:
 
 [<img align="left" alt="inknowhere | website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -44,23 +45,16 @@ Abhishek here -[DevCode] [abish4i] reverse last two and then i 4 a b i s h [INKN
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-
-- [T!0MO |(2020)](https://www.youtube.com/user/Top10MusicOfficial)
-- [YAbanCI | (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-
-<!-- YOUTUBE:END -->
-
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Amazon: JailbreAK kINDLE](https://inknowhere.wordpress.com/2020/05/31/kindlehacks/)
-- [uPLOaded](https://inknowhere.wordpress.com/uploaded)
-- [Wordpress](https://inknowhere.wordpress.com/)
-- [IBM](https://github.com/abish4i)
 - [Badges](https://www.credly.com/users/abish/badges)
+- [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/AKVBB9998DLK)
+- [Wordpress](https://inknowhere.wordpress.com/)
+- [uPLOaded](https://inknowhere.wordpress.com/uploaded)
+
 <!-- BLOG-POST-LIST:END -->
 
 [![Abish's github stats](https://github-readme-stats.vercel.app/api?username=abish4i)](https://github.com/abish4i/github-readme-stats)
