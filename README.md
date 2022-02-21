@@ -1,13 +1,13 @@
-### Namaste 🙏 I know this is high-five
+### Namaste 🙏 Yes,I know this is a high-five
 
 ## ¹I know,²I'm ³in ⁴love
-- ** <img align="justify" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- ** <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  🔭 & <img align="justify" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
  !**
-- 🏇 ¹tweaking and breaking stuff, instrumental music and EDMs 🎹
-- 📖 ²Reading almost anything
-- ⚠️ ³Pythoneer.py [build few unsuccessful scripts]
-- 🗓️ ⁴2k22: Still figuring that out
+- *¹*🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
+- *²*📖 Reading almost anything
+- *³*⚠️ Pythoneer.py [build few unsuccessful scripts]
+- *⁴*🗓️ 2k22: Still figuring that out
 
 ### Connect:
 
