@@ -1,13 +1,14 @@
-### Namaste🙏 Abhishek here -[DevCode] [abish4i][website]
+### Namaste 🙏{ I know this is high-five } 
+Abhishek here -[DevCode] [abish4i] reverse last two and then i 4 a b i s h [INKNOWHERE]
 
-## I'm a who I am!
-- **I’m currently advancing my HTML5 🔭 [Also PhotoShop][website]!**
-- 📖 I love reading 📚 
-- ⚠️ I’m Pythoneer 🙆‍♂️♂️.py [Please Help]
-- 🎮 2020: Less Games ✔️ Read More 60 Books atleast [Best Help is SelfHELP]
-- 🏇 I love to tweaking sTUFF / ♥️ Instrumental 🎹
+## I know you know too
+- ** HTML5 🔭 [Also PhotoShop] [deviantart]!**
+- 📖 Reading almost anything
+- ⚠️ Pythoneer.py [build few unsuccessful scripts]
+- 🗓️ 2k22: Still figuring that out
+- 🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
 
-### Connect:
+### Connect: If lost in space
 
 [<img align="left" alt="inknowhere | website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -21,7 +22,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools: little bit of all of following
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
