@@ -18,16 +18,18 @@
 [<img align="left" alt="inknowhere | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="inknowhere | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
+<br /> 
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon: JailbreAK kINDLE](https://inknowhere.wordpress.com/2020/05/31/kindlehacks/)
+- [Amazon:Kindle Jailbreaks](https://inknowhere.wordpress.com/2020/05/31/kindlehacks/)
 - [Badges](https://www.credly.com/users/abish/badges)
-- [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/AKVBB9998DLK)
+- [IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AKVBB9998DLK)
 - [Wordpress](https://inknowhere.wordpress.com/)
-- [uPLOaded](https://inknowhere.wordpress.com/uploaded)
+- [Uploads](https://inknowhere.wordpress.com/uploaded)
 
 <!-- BLOG-POST-LIST:END -->
 
