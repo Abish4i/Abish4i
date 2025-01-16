@@ -4,7 +4,7 @@
 🏇 tweaking and breaking stuff  
 🎹instrumental music and EDMs
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"**Pythoneer.py** [_build few unsuccessful scripts for automation_]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> **Pythoneer.py** [_build few unsuccessful scripts for automation_]
 
 🗓️ **(45)²**: Run for your life
 ### Connect:
