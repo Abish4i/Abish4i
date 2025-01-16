@@ -1,9 +1,9 @@
 ### Namaste 🙏 Yes,I know this is a high-five
-- **<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="justify" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />**
-- *¹*🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
-- *²*📖 Reading almost anything
-- *³*⚠️ Pythoneer.py [build few unsuccessful scripts]
-- *⁴*🗓️ 2k22: Still figuring that out
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
+📖 Reading almost anything
+[![PS](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) Pythoneer.py [build few unsuccessful scripts]
+🗓️ (45)²: Still figuring that out
 
 ### Connect:
 
