@@ -1,5 +1,5 @@
 ### Namaste 🙏 Yes,I know this is a high-five
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=anaconda,atom,mongodb,py,gcp,r,wordpress)](https://skillicons.dev)
 🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
 📖 Reading almost anything
 [![PS](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) Pythoneer.py [build few unsuccessful scripts]
