@@ -1,9 +1,10 @@
 ### 🙏 Yes,I know this is a high-five
 [![](https://skillicons.dev/icons?i=css,html,js,mongodb,py,gcp,r,wordpress)](https://skillicons.dev)
 
-🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
+🏇 tweaking and breaking stuff  
+🎹instrumental music and EDMs
 
-[![PS](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Pythoneer.py [build few unsuccessful scripts for automation]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"**Pythoneer.py** [_build few unsuccessful scripts for automation_]
 
 🗓️ **(45)²**: Run for your life
 ### Connect:
