@@ -1,10 +1,11 @@
-### Namaste 🙏 Yes,I know this is a high-five
-[![](https://skillicons.dev/icons?i=anaconda,atom,mongodb,py,gcp,r,wordpress)](https://skillicons.dev)
-🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
-📖 Reading almost anything
-[![PS](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) Pythoneer.py [build few unsuccessful scripts]
-🗓️ (45)²: Still figuring that out
+### 🙏 Yes,I know this is a high-five
+[![](https://skillicons.dev/icons?i=css,html,js,mongodb,py,gcp,r,wordpress)](https://skillicons.dev)
 
+🏇 tweaking and breaking stuff, instrumental music and EDMs 🎹
+
+[![PS](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Pythoneer.py [build few unsuccessful scripts for automation]
+
+🗓️ **(45)²**: Run for your life
 ### Connect:
 
 [<img align="left" alt="inknowhere | website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,7 +34,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" />
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
