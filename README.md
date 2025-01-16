@@ -1,8 +1,8 @@
 ### 🙏 Yes,I know this is a high-five
 [![](https://skillicons.dev/icons?i=css,html,js,mongodb,py,gcp,r,wordpress)](https://skillicons.dev)
 
-🏇 tweaking and breaking stuff  
-🎹instrumental music and EDMs
+🏇  tweaking and breaking stuff  
+🎹  instrumental music and EDMs
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> **Pythoneer.py** [_build few unsuccessful scripts for automation_]
 
