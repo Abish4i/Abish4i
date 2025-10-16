@@ -1,14 +1,12 @@
 <!--
-### Hi there 👋
+### Hi, _why are_ you **smiling xD**
 
-**This is a placeholder for a more engaging introduction.**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... Something
+- 🌱 I’m currently learning ... How to read and write
+- 👯 I’m looking to collaborate on ... **Confidential**
+- 🤔 I’m looking for help with ... _React.js_
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: **Telegram**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -34,15 +32,15 @@
 </p>
 
 ---
-
 ### 📖 About Me
 
 <p align="center">
-  I'm a self-taught developer with a passion for building things for the web. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies or playing video games.
+  I'm turning complex problems into something more complex, harder with better and efficient working. 
+🏇 tweaking and breaking stuff
+🗓️ (45)²: Run for your life
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 <!-- Skills -->
@@ -53,7 +51,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
@@ -64,19 +61,6 @@
 </p>
 
 ---
-
-### 🎮 Gaming Corner
-
-<details>
-  <summary>Click to expand</summary>
-
-  - **Currently Playing:** Placeholder
-  - **Favorite Games:** Placeholder
-
-</details>
-
----
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
