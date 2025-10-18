@@ -93,4 +93,28 @@ $post_list
 $post_list
 
 
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+
+
+$post_list
+
+
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+
+
+$post_list
+
+
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+
+
+$post_list
+
+
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+
+
+$post_list
+
+
 <!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:END -->
