@@ -13,11 +13,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://inknowhere.wordpress.com/feed/"
-          max_post_count: 5
+          max_post_count: 6
           readme_path: ./README.md
-          template: |
-            <!-- BLOG-POST-LIST:START -->
-            $newline
-            $post_list
-            $newline
-            <!-- BLOG-POST-LIST:END -->
+          template: '<td width="50%"><a href="$url"><img width="200px" src="$thumbnail" /></a><br/><a href="$url">$title</a></td>'
+          item_exec: "if (post.thumbnail.slice(0, 4) != 'http'){ post.thumbnail = 'https://inknowhere.files.wordpress.com/2018/04/cropped-ink-redible1-1.png'}"
+          custom_tags: "thumbnail/media:thumbnail/@url"
