@@ -66,6 +66,13 @@
 <table width="100%">
 <tr>
 <!-- BLOG-POST-LIST:START -->
+<td><a href="https://inknowhere.wordpress.com/latest-kindle-jailbreak">Latest Kindle Jailbreak</a></td>
+<td><a href="https://inknowhere.wordpress.com/2020/05/31/kindlehacks/">Jailbreak Kindle & Other Hacks</a></td>
+<td><a href="https://inknowhere.wordpress.com/sanity">Sanity</a></td>
+<td><a href="https://inknowhere.wordpress.com/lying-yourself">Lying Yourself</a></td>
+<td><a href="https://inknowhere.wordpress.com/inside-out">Inside Out</a></td>
+<td><a href="https://inknowhere.wordpress.com/appointment-in-samarra">Appointment in Samarra</a></td>
+<td><a href="https://inknowhere.wordpress.com/invading-privacy">Invading Privacy</a></td>
 <!-- BLOG-POST-LIST:END -->
 </tr>
 </table>
