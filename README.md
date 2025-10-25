@@ -75,9 +75,4 @@
 <td><a href="https://inknowhere.wordpress.com/invading-privacy">Invading Privacy</a></td>
 <!-- BLOG-POST-LIST:END -->
 </tr>
-</table>d><a href="https://inknowhere.wordpress.com/inside-out">Inside Out</a></td>
-<td><a href="https://inknowhere.wordpress.com/appointment-in-samarra">Appointment in Samarra</a></td>
-<td><a href="https://inknowhere.wordpress.com/invading-privacy">Invading Privacy</a></td>
-<!-- BLOG-POST-LIST:END -->
-</tr>
 </table>
