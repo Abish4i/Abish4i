@@ -28,7 +28,7 @@
 
 <!-- View Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/@Abish4i?name=Abish4i&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num+=21900" alt="Views" />
+  <img src="https://count.getloli.com/@Abish4i?name=Abish4i&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=21900" alt="Views" />
 </p>
 
 ---
