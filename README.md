@@ -123,18 +123,18 @@ class Abish:
 
 <div align="right">
 <details>
-<summary>Extra info</summary> 
+<summary>Extra info</summary>
   
 ---
 ### <div align="center"> 📊 GitHub Stats </div>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abish4i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abish4i&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abish4i&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abish4i&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abish4i&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abish4i&theme=gotham" alt="GitHub Streak" />
 </p>
-</div>
+
 ---
 ### <div align="center"> 📝 Latest Blog Posts </div>
 <table width="100%">
@@ -150,4 +150,5 @@ class Abish:
 <!-- BLOG-POST-LIST:END -->
 </tr>
 </table>
-</details> </div>
+</details>
+</div>
