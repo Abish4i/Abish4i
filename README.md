@@ -35,20 +35,43 @@
 ### 📖 About Me
 
 <p align="center">
-  I'm turning complex problems into something more complex, harder with better and efficient working. 
-🏇 tweaking and breaking stuff
-🗓️ (45)²: Run for your life
+  I'm def __init__(self):
+        self.name       = "Abhishek Sengar"
+        self.role       = ["Business Analyst", "MIS Executive", "Consulting"]
+        self.currently  = "Making raw data into actionable insights 🏇"
+        self.learning   = ["Power BI", "SQL", "ML Application"]
+        self.hobbies    = ["Reading", "Games", "Writing"]
+        self.pay_me   = "abish@apl <img src="https:// alt="QR" />| paypal.me/abish25
+
+    def fun_fact(self):
+        return "45² = Run for your life 🗓️"
 </p>
 
 ---
+<!-- ── TECH STACK ── -->
 ### 🛠️ Tech Stack
 
-<!-- Skills -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,mongodb,gcp,r,wordpress&perline=4" alt="Tech Stack: Python, JavaScript, HTML, CSS, MongoDB, GCP, R, WordPress" />
-  </a>
-</p>
+<div align="center">
+
+**Languages & Scripting**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,js,html,css&perline=5&theme=light" />
+</a>
+
+**Data & Cloud**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,mysql,postgres&perline=5&theme=light" />
+</a>
+
+**Tools & Platforms**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,linux&perline=5&theme=light" />
+</a>
+
+</div>
 
 ---
 ### 📊 GitHub Stats
