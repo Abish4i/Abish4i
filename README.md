@@ -46,7 +46,7 @@
 <!-- Skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,mongodb,gcp,r,wordpress&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,mongodb,gcp,r,wordpress&perline=4" alt="Tech Stack: Python, JavaScript, HTML, CSS, MongoDB, GCP, R, WordPress" />
   </a>
 </p>
 
