@@ -15,11 +15,13 @@
 
 <!-- View Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/@Abish4i?name=Abish4i&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&autonum=21900" alt="Views" />
+  <img src="https://count.getloli.com/@Abish4i?name=Abish4i&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Views" />
 </p>
 
+  
 ---
-### 📖 About Me
+### <div align="center"> 📖 About Me </div>
+
 ```python
 class Abish:
     def __init__(self,role currently...):
@@ -73,9 +75,6 @@ class Abish:
 ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=7a1f00)
 ![Google Sheets](https://img.shields.io/badge/Google-Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=1a5c2e)
 &nbsp;
-
-
-</div>
 
 ---
 <!-- ── TECH STACK ── -->
@@ -132,7 +131,7 @@ class Abish:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abish4i&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abish4i&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+</div>
 ---
 ### 📝 Latest Blog Posts
 
