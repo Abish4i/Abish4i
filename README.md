@@ -118,12 +118,15 @@ class Abish:
 </a>
 
 <br/>
-<h4>more credentials &nbsp;·&nbsp; <a href="https://www.credly.com/users/abish/badges">View all on Credly →</a></h4>
-
+<h4>more badges &nbsp;·&nbsp; <a href="https://www.credly.com/users/abish/badges">Credly by Pearson →</a></h4>
 </div>
 
+<div align="right">
+<details>
+<summary>Extra info</summary> 
+  
 ---
-### 📊 GitHub Stats
+### <div align="center"> 📊 GitHub Stats </div>
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -131,10 +134,9 @@ class Abish:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abish4i&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abish4i&theme=tokyonight" alt="GitHub Streak" />
 </p>
-</div>
----
-### 📝 Latest Blog Posts
 
+---
+### <div align="center"> 📝 Latest Blog Posts </div>
 <table width="100%">
 <tr>
 <!-- BLOG-POST-LIST:START -->
@@ -148,3 +150,4 @@ class Abish:
 <!-- BLOG-POST-LIST:END -->
 </tr>
 </table>
+</details> </div>
