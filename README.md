@@ -1,5 +1,3 @@
-
-
 <!-- Typing SVG -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -24,9 +22,10 @@
 ### 📖 About Me
 ```python
 class Abish:
+    def __init__(self,role currently...):
         self.name       = "Abhishek Sengar"
-        self.role       = ["Business Analyst", "MIS Executive", "Consulting"]
-        self.currently  = "Making raw data into actionable insights 🏇"
+        self.role       = ["Business Analyst"]
+        self.currently  = {Freelancer} "Making decisions based on datasets 🏇"
         self.learning   = ["Power BI", "SQL", "ML Application"]
         self.hobbies    = ["Reading", "Games", "Writing"]
     def fun_fact(self):
@@ -34,8 +33,9 @@ class Abish:
         
 ```
 ---
+<!-- ── Skills ── -->
 <div align="center">
-
+  
 **Excel & Analysis**
 
 
@@ -74,9 +74,7 @@ class Abish:
 ![Google Sheets](https://img.shields.io/badge/Google-Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=1a5c2e)
 &nbsp;
 
-</div>
-<div align="center">
-  <h2>💳 Payments · <code>abish@apl</code> &nbsp;|&nbsp; <a href="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png">UPI QR Code</a></h2>
+
 </div>
 
 ---
@@ -121,7 +119,7 @@ class Abish:
 </a>
 
 <br/>
-<sub>+36 more credentials &nbsp;·&nbsp; <a href="https://www.credly.com/users/abish/badges">View all on Credly →</a></sub>
+<h4>more credentials &nbsp;·&nbsp; <a href="https://www.credly.com/users/abish/badges">View all on Credly →</a></h4>
 
 </div>
 
