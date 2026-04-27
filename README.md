@@ -1,15 +1,4 @@
-<!--
-### Hi, _why are_ you **smiling xD**
 
-- 🔭 I’m currently working on ... Something
-- 🌱 I’m currently learning ... How to read and write
-- 👯 I’m looking to collaborate on ... **Confidential**
-- 🤔 I’m looking for help with ... _React.js_
-- 💬 Ask me about ...
-- 📫 How to reach me: **Telegram**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Typing SVG -->
 <h1 align="center">
@@ -44,8 +33,39 @@ class Abish:
         return "2026 = 505 + 506 + 507 + 508 🗓️"
         
 ```
-#Payments>> "abish@apl" <a href="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png"> <img src="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png" alt="UPI QR — abish@apl" width="180" />
-</a>
+<div align="center">
+
+**Excel & Analysis**
+
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-1a5c38?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
+![Power Query](https://img.shields.io/badge/Power_Query-145a32?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-0d4024?style=flat-square&logo=chartdotjs&logoColor=white)&nbsp;
+![Data Reporting](https://img.shields.io/badge/Data_Reporting-0a3320?style=flat-square&logo=databricks&logoColor=white)
+
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
+![DAX](https://img.shields.io/badge/DAX-d4b000?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-b89a00?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)&nbsp;
+![Dashboards](https://img.shields.io/badge/Dashboards-c45e00?style=flat-square&logo=grafana&logoColor=white)
+
+**Platforms & Tools**
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)&nbsp;
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)&nbsp;
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+<div align="center">
+  <h2>💳 Payments · <code>abish@apl</code> &nbsp;|&nbsp; <a href="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png">UPI QR Code</a></h2>
+</div>
+
 ---
 <!-- ── TECH STACK ── -->
 ### 🛠️ Tech Stack
@@ -55,20 +75,40 @@ class Abish:
 **Languages & Scripting**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,r,js,html,css&perline=5&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,r,js,html,css&perline=5&theme=dark" alt="Languages" />
 </a>
 
 **Data & Cloud**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,mysql,postgres&perline=5&theme=light" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,mysql,postgres,git&perline=5&theme=dark" alt="Data & Cloud" />
 </a>
 
-**Tools & Platforms**
+**Dev Tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,linux&perline=5&theme=light" />
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode,linux,github,notion&perline=5&theme=dark" alt="Dev Tools" />
 </a>
+
+</div>
+
+---
+### 🏅 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/users/abish/badges" title="Google Data Analytics Professional Certificate — Coursera">
+  <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="105" alt="Google Data Analytics" />
+</a>&nbsp;&nbsp;
+<a href="https://www.credly.com/users/abish/badges" title="Data Analysis & Visualization Specialization — IBM / Coursera">
+  <img src="https://images.credly.com/images/def197cc-7ee4-4015-b0aa-1f6cb5ef2f0e/Data_Analysis_and_Visualization_Foundations_Specialization.png" width="105" alt="Data Analytics Essentials" />
+</a>&nbsp;&nbsp;
+<a href="https://www.credly.com/users/abish/badges" title="Excel Essentials for Data Analytics — IBM / Coursera">
+  <img src="https://images.credly.com/images/f1d0f26d-8960-402a-a426-a1c1b7f00650/image.png" width="105" alt="Excel Essentials for Data Analytics" />
+</a>
+
+<br/>
+<sub>+36 more credentials &nbsp;·&nbsp; <a href="https://www.credly.com/users/abish/badges">View all on Credly →</a></sub>
 
 </div>
 
