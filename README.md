@@ -24,7 +24,7 @@
 ### 📖 About Me
 ```python
 class Abish:
-    self.name       = "Abhishek Sengar"
+        self.name       = "Abhishek Sengar"
         self.role       = ["Business Analyst", "MIS Executive", "Consulting"]
         self.currently  = "Making raw data into actionable insights 🏇"
         self.learning   = ["Power BI", "SQL", "ML Application"]
@@ -33,35 +33,48 @@ class Abish:
         return "2026 = 505 + 506 + 507 + 508 🗓️"
         
 ```
+---
 <div align="center">
 
 **Excel & Analysis**
 
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-1a5c38?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
-![Power Query](https://img.shields.io/badge/Power_Query-145a32?style=flat-square&logo=microsoftexcel&logoColor=white)&nbsp;
-![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-0d4024?style=flat-square&logo=chartdotjs&logoColor=white)&nbsp;
-![Data Reporting](https://img.shields.io/badge/Data_Reporting-0a3320?style=flat-square&logo=databricks&logoColor=white)
+
+![Advanced Excel](https://img.shields.io/badge/Excel-Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d3b1f)&nbsp;
+![Pivot Tables](https://img.shields.io/badge/Excel-Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d3b1f)
+&nbsp;
+![Power Query](https://img.shields.io/badge/Excel-Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d3b1f)
+&nbsp;
+
+![Regression Analysis](https://img.shields.io/badge/Stats-Regression_Analysis-217346?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d3b1f)
+&nbsp;
+![Data Reporting](https://img.shields.io/badge/Report-Data_Reporting-217346?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0d3b1f)
 
 **Visualization & BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
-![DAX](https://img.shields.io/badge/DAX-d4b000?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-b89a00?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)&nbsp;
-![Dashboards](https://img.shields.io/badge/Dashboards-c45e00?style=flat-square&logo=grafana&logoColor=white)
+
+![Dashboards](https://img.shields.io/badge/Alteryx-Analytics-1D6EC7?style=for-the-badge&logo=alteryx&logoColor=white&labelColor=0a2e6e)
+![Dashboards](https://img.shields.io/badge/IBM-Cloud_Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=021459)
+![Dashboards](https://img.shields.io/badge/Looker-Dashboards-4285F4?style=for-the-badge&logo=looker&logoColor=white&labelColor=1a3d8f)
+&nbsp;
+
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=7a6300)
+&nbsp;
+![DAX](https://img.shields.io/badge/Power_BI-DAX_Formulas-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=7a6300)
+
+&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=7a3500)
 
 **Platforms & Tools**
 
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)&nbsp;
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)&nbsp;
-![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-SQL_Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e3a5f)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a3a5c)
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=7a1f00)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=1a5c2e)
+&nbsp;
 
 </div>
-
----
 <div align="center">
   <h2>💳 Payments · <code>abish@apl</code> &nbsp;|&nbsp; <a href="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png">UPI QR Code</a></h2>
 </div>
