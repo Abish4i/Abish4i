@@ -33,20 +33,19 @@
 
 ---
 ### 📖 About Me
-
-<p align="center">
-  I'm def __init__(self):
-        self.name       = "Abhishek Sengar"
+```python
+class Abish:
+    self.name       = "Abhishek Sengar"
         self.role       = ["Business Analyst", "MIS Executive", "Consulting"]
         self.currently  = "Making raw data into actionable insights 🏇"
         self.learning   = ["Power BI", "SQL", "ML Application"]
         self.hobbies    = ["Reading", "Games", "Writing"]
-        self.pay_me   = "abish@apl <img src="https:// alt="QR" />| paypal.me/abish25
-
     def fun_fact(self):
-        return "45² = Run for your life 🗓️"
-</p>
-
+        return "2026 = 505 + 506 + 507 + 508 🗓️"
+        
+```
+#Payments>> "abish@apl" <a href="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png"> <img src="https://inknowhere.wordpress.com/wp-content/uploads/2026/04/1777197810323.png" alt="UPI QR — abish@apl" width="180" />
+</a>
 ---
 <!-- ── TECH STACK ── -->
 ### 🛠️ Tech Stack
